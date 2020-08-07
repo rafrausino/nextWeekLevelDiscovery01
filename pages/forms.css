@@ -40,5 +40,5 @@
     background: var(--color-primary-light);
     position: absolute;
     left: 1.6rem;
-    bottom: 0;
+    bottom: 8px;
 }
