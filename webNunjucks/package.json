@@ -1,11 +1,26 @@
 {
-  "name": "nextLevelWeekDiscovery_01",
-  "dependencies": {
-    "express": "^4.17.1",
-    "nunjucks": "^3.2.2"
-  },
+  "name": "nextWeekLevelDiscovery01",
+  "version": "1.0.0",
+  "description": "<h3 align=\"center\">   *🚧 Em construção 🚧* </h3>",
+  "main": "index.js",
   "scripts": {
     "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafrausino/nextWeekLevelDiscovery01"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafrausino/nextWeekLevelDiscovery01/issues"
+  },
+  "homepage": "https://github.com/rafrausino/nextWeekLevelDiscovery01#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2",
+    "sqlite-async": "^1.1.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
